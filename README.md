@@ -26,6 +26,7 @@ The project demonstrates the design of a modern, user-friendly university websit
 This project was developed as part of my practical WordPress website design portfolio to demonstrate my website design and customisation skills.
 
 **Note:** Crestfield University is a fictional portfolio project and is not a real accredited institution.
+
 ## Website Demonstration
 
 Watch the website walkthrough:
